@@ -1,0 +1,26 @@
+*,*:before,*:after{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial;
+}
+.container{
+    text-align: center;
+}
+.change{
+    background: #7a73ff;
+    padding: 15px 40px;
+    color: #fff;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.text{
+    font-size: 16px;
+}
